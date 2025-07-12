@@ -1,0 +1,11 @@
+<html>
+<head>
+  <title>Loki</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <h1>Loki</h1>
+  <p><a href="about.html">About</a> | <a href="essays/why-i-write.html">Essays</a></p>
+  <p>Welcome to my personal website.</p>
+</body>
+</html>
